@@ -19,13 +19,13 @@ function handleSearch(event)
 	
 	// Remove posts
 	var posts = document.getElementsByClassName("post");
-	
-	if (postsCache.length == 0)
+	/*
+	if (postsCache.length == 0 || postsCache == null)
 		postsCache = document.getElementsByClassName("post");
 	else
 		posts = postsCache;
 	
-	alert(postsCache);
+	alert(postsCache.length);*/
 	
 	for (var i = 0; i < posts.length; i++)
 	{
