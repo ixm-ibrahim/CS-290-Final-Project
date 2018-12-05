@@ -1,0 +1,28 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "need to get at least an 80% to maintain a B in this class.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "handlebars views/partials/posts.handlebars -f public/postsTemplate.js",
+    "prestart": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSU-CS290-F18/master-assignment-5.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/OSU-CS290-F18/master-assignment-5/issues"
+  },
+  "homepage": "https://github.com/OSU-CS290-F18/master-assignment-5#readme",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12",
+    "mongodb": "^3.1.10"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Stereographic Projection",
+	"reference": "http://mathworld.wolfram.com/StereographicProjection.html",
+    "image1": "/math_objects/stereographic_projection/sierrasphere_original.jpg",
+    "image2": "/math_objects/stereographic_projection/sierrasphere_projected.jpg",
+    "image3": "backgrounds/black.png",
+    "description": "Cartesian Curves desc"
+  }
+]

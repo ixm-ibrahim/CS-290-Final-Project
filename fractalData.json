@@ -1,0 +1,66 @@
+[
+  {
+    "title": "2D Koch Curves",
+	"reference": "http://mathworld.wolfram.com/KochSnowflake.html",
+    "image1": "/math_objects/fractals/koch/triangle_90.jpg",
+    "image2": "/math_objects/fractals/koch/triangle_60.jpg",
+    "image3": "/math_objects/fractals/koch/square_90_inverted.jpg",
+    "description": "2D Koch Curves desc"
+  },
+  {
+    "title": "3D Koch Approximations",
+	"reference": "https://www.cati.com/blog/2008/10/3d-koch-snowflake-2/",
+    "image1": "/math_objects/fractals/koch/3d_cubes.jpg",
+    "image2": "/math_objects/fractals/koch/3d_82.15.jpg",
+    "image3": "backgrounds/black.png",
+    "description": "3D Koch Approximations desc"
+  },
+  {
+    "title": "2D L-System",
+	"reference": "https://www.vexlio.com/blog/drawing-simple-organics-with-l-systems/",
+    "image1": "/math_objects/fractals/l_system/pythagoras_tree.jpg",
+    "image2": "/math_objects/fractals/l_system/tree_30.jpg",
+    "image3": "/math_objects/fractals/l_system/tree_30_scaled.jpg",
+    "description": "2D Parametric Curves desc"
+  },
+  {
+    "title": "3D L-System Trees",
+	"reference": "https://allenpike.com/modeling-plants-with-l-systems/",
+    "image1": "/math_objects/fractals/l_system/3d_pythagoras_tree.jpg",
+    "image2": "/math_objects/fractals/l_system/3d_tree_30.jpg",
+    "image3": "/math_objects/fractals/l_system/3d_tree_30_scaled.jpg",
+    "description": "3D Parametric Curves desc"
+  },
+  {
+    "title": "Random 3D L-System Trees",
+	"reference": "https://generativelandscapes.wordpress.com/2014/10/07/fractal-trees-basic-l-system-example-9-4/",
+    "image1": "/math_objects/fractals/l_system/3d_random_tree_1.jpg",
+    "image2": "/math_objects/fractals/l_system/3d_random_tree_2.jpg",
+    "image3": "/math_objects/fractals/l_system/3d_random_tree_3.jpg",
+    "description": "Cartesian Surfaces desc"
+  },
+  {
+    "title": "The Mandelbrot",
+	"reference": "http://mathworld.wolfram.com/MandelbrotSet.html",
+    "image1": "/math_objects/fractals/mandelbrot/mandelbrot.jpg",
+    "image2": "/math_objects/fractals/mandelbrot/julia_set.jpg",
+    "image3": "/math_objects/fractals/mandelbrot/buddha.jpg",
+    "description": "Spherical Surfaces desc"
+  },
+  {
+    "title": "2D Sierpinski Objects",
+	"reference": "http://paulbourke.net/fractals/polyhedral/",
+    "image1": "/math_objects/fractals/sierpinski/triangle.jpg",
+    "image2": "/math_objects/fractals/sierpinski/pentagon.jpg",
+    "image3": "/math_objects/fractals/sierpinski/hexagon.jpg",
+    "description": "Parametric Surfaces desc"
+  },
+  {
+    "title": "3D Sierpinski Objects",
+	"reference": "http://paulbourke.net/fractals/polyhedral/",
+    "image1": "/math_objects/fractals/sierpinski/tetrahedron.jpg",
+    "image2": "/math_objects/fractals/sierpinski/inverted_tetrahedron.jpg",
+    "image3": "/math_objects/fractals/sierpinski/octohedron.png",
+    "description": "4D Surface Visualizations desc"
+  }
+]

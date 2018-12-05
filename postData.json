@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Cartesian Curves",
+	"reference": "http://mathworld.wolfram.com/CartesianCurve.html",
+    "image1": "/math_objects/equations/cartesian_curve/x^3.jpg",
+    "image2": "/math_objects/equations/cartesian_curve/abs(x).jpg",
+    "image3": "/math_objects/equations/cartesian_curve/sin(x).jpg",
+    "description": "Cartesian Curves desc"
+  },
+  {
+    "title": "Polar Curves",
+	"reference": "https://www.cs.drexel.edu/classes/Calculus/MATH123_Spring03/lecture21.pdf",
+    "image1": "math_objects/equations/polar_curve/pi_rose.jpg",
+    "image2": "backgrounds/black.png",
+    "image3": "backgrounds/black.png",
+    "description": "Polar Curves desc"
+  },
+  {
+    "title": "2D Parametric Curves",
+	"reference": "http://mathworld.wolfram.com/ParametricEquations.html",
+    "image1": "math_objects/equations/cartesian_parametric_curve/2d/astroid.jpg",
+    "image2": "math_objects/equations/cartesian_parametric_curve/2d/heart.jpg",
+    "image3": "math_objects/equations/cartesian_parametric_curve/2d/hypocycloid.jpg",
+    "description": "2D Parametric Curves desc"
+  },
+  {
+    "title": "3D Parametric Curves",
+	"reference": "https://www.whitman.edu/mathematics/calculus_online/section13.01.html",
+    "image1": "math_objects/equations/cartesian_parametric_curve/3d/pi_sphere.jpg",
+    "image2": "math_objects/equations/cartesian_parametric_curve/3d/pi_cone.jpg",
+    "image3": "backgrounds/black.png",
+    "description": "3D Parametric Curves desc"
+  },
+  {
+    "title": "Cartesian Surfaces",
+	"reference": "http://tutorial.math.lamar.edu/Classes/CalcIII/3DCoords.aspx",
+    "image1": "math_objects/equations/cartesian_surface/paraboloid.jpg",
+    "image2": "math_objects/equations/cartesian_surface/wave.jpg",
+    "image3": "backgrounds/black.png",
+    "description": "Cartesian Surfaces desc"
+  },
+  {
+    "title": "Spherical Surfaces",
+	"reference": "https://mathinsight.org/spherical_coordinates",
+    "image1": "math_objects/equations/spherical_surface/theta.jpg",
+    "image2": "backgrounds/black.png",
+    "image3": "backgrounds/black.png",
+    "description": "Spherical Surfaces desc"
+  },
+  {
+    "title": "Parametric Surfaces",
+	"reference": "http://tutorial.math.lamar.edu/Classes/CalcIII/ParametricSurfaces.aspx",
+    "image1": "math_objects/equations/cartesian_parametric_surface/log_turbine.jpg",
+    "image2": "backgrounds/black.png",
+    "image3": "backgrounds/black.png",
+    "description": "Parametric Surfaces desc"
+  },
+  {
+    "title": "4D Surface Visualizations",
+	"reference": "https://www.geogebra.org/3d",
+    "image1": "math_objects/equations/4d_cartesian/wave.jpg",
+    "image2": "math_objects/equations/4d_cartesian/rect_to_cone.jpg",
+    "image3": "backgrounds/black.png",
+    "description": "4D Surface Visualizations desc"
+  }
+]

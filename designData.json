@@ -1,0 +1,34 @@
+[
+  {
+    "title": "3D Printed Math Equations",
+	"reference": "http://www.3dprintmath.com/",
+    "image1": "/math_objects/examples/3d_prints/astroid.jpg",
+    "image2": "/math_objects/examples/3d_prints/dna_torus.jpg",
+    "image3": "/math_objects/examples/3d_prints/rose.jpg",
+    "description": "2D Koch Curves desc"
+  },
+  {
+    "title": "Colored 3D Prints",
+	"reference": "https://all3dp.com/2/color-3d-printer-how-to-get-colorful-3d-prints/",
+    "image1": "/math_objects/examples/3d_prints/massager.jpg",
+    "image2": "/math_objects/examples/3d_prints/colored_pi_sphere.jpg",
+    "image3": "/math_objects/examples/3d_prints/colored_paraboloid.jpg",
+    "description": "3D Koch Approximations desc"
+  },
+  {
+    "title": "Laser Cut Equations",
+	"reference": "https://www.pinterest.com/pin/18084835988956576/",
+    "image1": "/math_objects/examples/laser_cut/log_spirals.jpg",
+    "image2": "backgrounds/black.png",
+    "image3": "backgrounds/black.png",
+    "description": "2D Parametric Curves desc"
+  },
+  {
+    "title": "The Batman Equation",
+	"reference": "http://mathworld.wolfram.com/BatmanCurve.html",
+    "image1": "/math_objects/examples/batman_original.jpg",
+    "image2": "/math_objects/examples/batman_final.jpg",
+    "image3": "backgrounds/black.png",
+    "description": "3D Parametric Curves desc"
+  }
+]
